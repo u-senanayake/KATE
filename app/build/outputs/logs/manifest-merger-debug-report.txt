@@ -1,0 +1,268 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:2:1-127:12
+	package
+		ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml
+		INJECTED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:6:5-45
+		INJECTED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml
+		INJECTED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:5:5-32
+		INJECTED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml
+		INJECTED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:4:5-45
+uses-sdk
+ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:24.2.1] E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:24.2.1] E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:24.2.1] E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:24.2.1] E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:24.2.1] E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:24.2.1] E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:24.2.1] E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-vector-drawable:24.2.1] E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.rmtheis:tess-two:5.4.1] E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\build\intermediates\exploded-aar\com.rmtheis\tess-two\5.4.1\AndroidManifest.xml:22:5-24:41
+MERGED from [com.google.android.gms:play-services:6.5.87] E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\AndroidManifest.xml:18:5-42
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:10:9-38
+		INJECTED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml
+		INJECTED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:9:9-35
+		INJECTED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml
+		INJECTED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:13:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:14:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:15:22-78
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:16:5-78
+	android:name
+		ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:16:22-75
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:17:5-75
+	android:name
+		ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:17:22-72
+uses-permission#android.permission.WAKE_LOCK
+ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:18:5-68
+	android:name
+		ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:18:22-65
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:19:5-81
+	android:name
+		ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:19:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:20:5-75
+	android:name
+		ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:20:22-72
+uses-permission#android.permission.INTERNET
+ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:25:5-67
+	android:name
+		ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:25:22-64
+uses-permission#android.permission.CAMERA
+ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:28:5-64
+	android:name
+		ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:28:22-62
+uses-feature#android.hardware.camera.autofocus
+ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:29:5-70
+	android:name
+		ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:29:19-67
+uses-feature#android.hardware.camera.flash
+ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:30:5-32:36
+	android:required
+		ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:32:9-33
+	android:name
+		ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:31:9-53
+uses-feature#android.hardware.camera
+ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:33:5-60
+	android:name
+		ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:33:19-57
+application
+ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:37:5-125:19
+MERGED from [com.android.support:appcompat-v7:24.2.1] E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services:6.5.87] E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\AndroidManifest.xml:20:5-24:19
+	android:label
+		ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:40:9-41
+	android:allowBackup
+		ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:38:9-35
+	android:icon
+		ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:39:9-45
+	android:theme
+		ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:41:9-40
+activity#team.innovators.k.a.t.e.MainActivity
+ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:42:9-50:20
+	android:label
+		ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:44:13-45
+	android:name
+		ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:43:13-41
+intent-filter#android.intent.action.HOME+android.intent.category.DEFAULT
+ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:45:13-49:29
+action#android.intent.action.HOME
+ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:46:17-69
+	android:name
+		ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:46:25-66
+category#android.intent.category.DEFAULT
+ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:48:17-76
+	android:name
+		ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:48:27-73
+activity#team.innovators.k.a.t.e.NotesActivity
+ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:51:9-53:60
+	android:label
+		ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:53:13-57
+	android:name
+		ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:52:13-42
+activity#team.innovators.k.a.t.e.CameraActivity
+ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:54:9-56:61
+	android:label
+		ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:56:13-58
+	android:name
+		ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:55:13-43
+activity#team.innovators.k.a.t.e.CompassActivity
+ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:57:9-60:52
+	android:screenOrientation
+		ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:60:13-49
+	android:label
+		ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:59:13-59
+	android:name
+		ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:58:13-44
+activity#team.innovators.k.a.t.e.LockerActivity
+ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:61:9-63:61
+	android:label
+		ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:63:13-58
+	android:name
+		ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:62:13-43
+activity#team.innovators.k.a.t.e.MainSettings
+ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:64:9-72:20
+	android:label
+		ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:66:13-65
+	android:name
+		ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:65:13-41
+activity#team.innovators.k.a.t.e.SplashActivity
+ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:73:9-77:80
+	android:label
+		ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:75:13-58
+	android:noHistory
+		ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:76:13-37
+	android:theme
+		ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:77:13-77
+	android:name
+		ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:74:13-43
+activity#team.innovators.k.a.t.e.TalkWithMe
+ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:78:9-80:67
+	android:label
+		ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:80:13-64
+	android:name
+		ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:79:13-39
+activity#team.innovators.k.a.t.e.LoginActivity
+ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:81:9-84:80
+	android:label
+		ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:83:13-57
+	android:theme
+		ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:84:13-77
+	android:name
+		ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:82:13-42
+activity#team.innovators.k.a.t.e.RegActivity
+ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:85:9-88:80
+	android:label
+		ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:87:13-55
+	android:theme
+		ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:88:13-77
+	android:name
+		ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:86:13-40
+activity#team.innovators.k.a.t.e.LockScreen
+ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:89:9-99:20
+	android:label
+		ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:91:13-63
+	android:noHistory
+		ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:92:13-37
+	android:theme
+		ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:93:13-77
+	android:name
+		ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:90:13-39
+intent-filter#android.intent.action.LOGIN+android.intent.category.DEFAULT
+ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:94:13-98:29
+action#android.intent.action.LOGIN
+ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:95:17-70
+	android:name
+		ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:95:25-67
+service#team.innovators.k.a.t.e.LockScreenService
+ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:101:9-54
+	android:name
+		ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:101:18-51
+receiver#team.innovators.k.a.t.e.LockScreenReceiver
+ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:103:9-110:20
+	android:enabled
+		ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:105:13-35
+	android:name
+		ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:104:13-47
+intent-filter#android.intent.action.ACTION_SCREEN_OFF+android.intent.action.BOOT_COMPLETED
+ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:106:13-109:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:107:17-79
+	android:name
+		ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:107:25-76
+action#android.intent.action.ACTION_SCREEN_OFF
+ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:108:17-82
+	android:name
+		ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:108:25-79
+activity#team.innovators.k.a.t.e.HomeActivity
+ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:112:9-120:20
+	android:label
+		ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:114:13-56
+	android:name
+		ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:113:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:115:13-119:29
+action#android.intent.action.MAIN
+ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:116:17-69
+	android:name
+		ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:116:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:118:17-77
+	android:name
+		ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:118:27-74
+activity#ocr.image.ImageActivity
+ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:121:9-123:60
+	android:label
+		ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:123:13-57
+	android:name
+		ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:122:13-51
+activity#location.activity.LocationActivity
+ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:124:9-80
+	android:name
+		ADDED from E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\src\main\AndroidManifest.xml:124:19-68
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services:6.5.87] E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services:6.5.87] E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services:6.5.87] E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\AndroidManifest.xml:22:13-58

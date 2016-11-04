@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+<!-- general category -->
+     <PreferenceCategory  
+        android:title="@string/category_general_title"
+        android:key="pref_key_general_settings"> -->
+    <EditTextPreference
+		android:key="pref_general_disp_name"
+		android:title="Display Name"
+		android:icon="@drawable/preferences_ico_gen_dispname"
+		android:summary="Name that'll be shown in application startup"
+		android:dialogTitle="Set Name"
+		android:defaultValue="Vish"
+		 />   
+        
+    <CheckBoxPreference
+        android:key="pref_general_enable_login"
+        android:title="Enable Log in"
+        android:icon="@drawable/preferences_ico_gen_enble_login"
+        android:summary="Use protected log in screen at every application startup.\nThis'll be enabled by default"
+        android:defaultValue="true"
+        
+        
+         />
+    <EditTextPreference
+		android:key="pref_general_change_login_pin"
+		android:dependency="pref_general_enable_login"
+		android:title="Change PIN"
+		android:icon="@drawable/preferences_ico_gen_changepin"
+		android:summary="change access code that enable access to the application"
+		android:dialogTitle="Insert new"
+		android:defaultValue="1234"
+		 />
+    
+    
+   
+    </PreferenceCategory>
+    
+      
+    
+<!-- talk with me category -->
+<!-- 
+    <PreferenceCategory
+        android:title="@string/category_talkwithme_title"
+        android:key="pref_key_talkwithme_settings"
+        >
+        
+        <CheckBoxPreference
+        android:key="pref_talkwithme_enable_widget"
+        android:title="Desktop Widget"
+        android:summary="Enable floating widget on desktop to use this function directly"
+        android:defaultValue="false" />
+        
+    </PreferenceCategory>
+  -->   
+    
+<!-- location services  --> 
+
+	<PreferenceCategory
+	    android:title="@string/category_location_title"
+        android:key="pref_key_location_settings"
+	    >
+	    
+	    <CheckBoxPreference
+        android:key="pref_locationservices_enable"
+        android:title="Enable service"
+        android:icon="@drawable/preferences_ico_loc_enable"
+        android:summary="Enable functionality that'll use your location to determine how to adjust phone behaviour, Depending on your customization"
+        android:defaultValue="false" />
+	    
+	    <CheckBoxPreference
+        android:key="pref_locationservices_set_max_locations"
+        android:title="Set Maximum number of Locations"
+        android:icon="@drawable/preferences_ico_loc_count"
+        android:summary="Set limit to number of locations that could be add. By default this option is turned off"
+        android:dependency="pref_locationservices_enable"
+        android:defaultValue="false" />
+	    
+	    <EditTextPreference
+		android:key="pref_locationservices_number_of_max_locations"
+		android:title="Set Maximum Number of Locations"
+		android:summary="Default value is set as 0"
+		android:dialogTitle="Set Maximum Value"
+		android:icon="@drawable/preferences_loc_count"
+		android:dependency="pref_locationservices_set_max_locations"
+		android:defaultValue="0"
+		 />
+	    
+	    <ListPreference
+	     android:key="pref_locationservices_select_method" 
+	     android:title="How should we track your location"
+	     android:icon="@drawable/preferences_ico_loc_type"
+	     android:summary="Select available methods for your device that this application can use to track your location"
+	     android:dependency="pref_locationservices_enable"  
+	     android:entries="@array/location_methods"
+         android:entryValues="@array/location_values"
+         android:defaultValue="@array/location_defaults"
+	        
+	    />
+	    
+	</PreferenceCategory>
+
+   
+       
+<!-- lock screen -->
+    <PreferenceCategory
+        android:title="@string/category_lockscreen_title"
+        android:key="pref_key_lockscr_settings"
+        >
+        <CheckBoxPreference
+        android:key="pref_lockscreen_enable_widget"
+        android:title="Enable"
+        android:icon="@drawable/preferences_ico_lok_enable"
+        android:summary="Enable custom lockscreen on system that can be fully customizable and have on point accesses to any activity from this application."
+        android:defaultValue="false" />
+
+        
+<!-- CHANGE LOCKSCREEN BACKGROUND FROM SDCARD -->        
+        <Preference
+            android:key="pref_lockscree_bgimage_path"
+            android:dependency="pref_lockscreen_enable_widget"
+		android:title="LockScreen Background Image"
+		android:icon="@drawable/preferences_ico_lok_select"
+		android:summary="Select Image"
+		>
+
+		 </Preference>
+		 
+ <!--        
+        <Preference
+		android:key="lockscr_bg_path"
+		
+		android:defaultValue="@drawable/katesplashtmp"
+		 />
+
+ -->
+        
+        
+<!-- ***************************************************** -->
+        
+        
+        
+        <ListPreference
+        android:dependency="pref_lockscreen_enable_widget"
+        android:key="pref_lockscr_bgimage"
+        android:title="Select LockScreen Background"
+        android:dialogTitle="Select Image"
+        android:entries="@array/set_array"
+        android:entryValues="@array/set_array_values"
+        android:defaultValue="@array/default_array_values" />
+        
+    </PreferenceCategory>
+    
+<!-- notepad -->
+    <PreferenceCategory
+        android:title="@string/category_notes_title"
+        android:key="pref_key_notepad_settings"
+        >
+        <ListPreference
+        
+        android:key="pref_notepad_location"
+        android:title="Set Default save location"
+        android:dialogTitle="Select location"
+        android:entries="@array/loc_names"
+        android:icon="@drawable/preferences_ico_notes"
+        android:entryValues="@array/loc_values"
+        android:defaultValue="@array/loc_defaults" />
+        
+    </PreferenceCategory>
+    
+<!-- locker -->
+<PreferenceCategory
+    android:title="@string/category_locker_title"
+    android:key="pref_key_locker_settings"
+    >
+    <EditTextPreference
+		android:key="pref_locker_change_locker_pin"
+		android:title="Change Locker access code"
+		android:icon="@drawable/preferences_ico_lokr"
+		android:summary="change access code that enable access to your persoal space"
+		android:dialogTitle="Change PIN"
+		android:defaultValue="0000"
+		 />
+    
+    
+</PreferenceCategory>
+
+<!-- help section -->
+
+<PreferenceCategory
+    android:title="@string/category_help_title"
+    android:key="pref_key_help"
+    >
+    
+    <Preference android:title="@string/prefs_web_page"
+        android:icon="@drawable/preferences_ico_feedback"
+         >
+    <intent android:action="android.intent.action.SENDTO"
+        	
+            android:data="mailto:vishvega@gmail.com" />
+</Preference>
+
+    <Preference android:title="About Us"
+        android:icon="@drawable/preferences_ico_aboutus"
+        
+        >
+        <intent android:action="android.intent.action.VIEW"
+            android:data="http://innov22.wixsite.com/teaminnovators"
+            />
+        
+    </Preference>
+    
+</PreferenceCategory>
+
+<!-- version number and build number -->
+
+<PreferenceCategory
+    android:key="version"
+    android:title="version information"
+    android:persistent="false"
+    android:selectable="false"
+     >
+    
+    <Preference android:title="Version Number "
+        android:summary="v.1.192.7"
+        
+        />
+    <Preference android:title="Build Number "
+        android:summary="Build 192.7"/>
+    
+    
+    
+</PreferenceCategory>
+
+<!-- 
+<Preference
+    android:key="firstrun">
+    
+    
+    
+    
+    
+</Preference>
+ -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+</PreferenceScreen>

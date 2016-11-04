@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="team.innovators.k.a.t.e.MainActivity" >
+
+    <item
+        android:id="@+id/action_main_prefs"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_main_settings"/>
+    
+    <item
+        android:id="@+id/action_main_help"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_main_help"/>
+    
+    <item
+        android:id="@+id/action_main_about"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_main_about"/>
+    
+    
+    
+    
+
+</menu>

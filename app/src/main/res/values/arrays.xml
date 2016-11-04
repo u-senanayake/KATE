@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+<!-- set lockscr bg -->
+    <string-array
+        name="set_array">
+        <item>Sunset Field House</item>
+        <item>Minions</item>
+        <item>Infinity Railways</item>
+        <item>Abstract Diagonal</item>
+        <item>Sundown Beach</item>
+        <item>Abstract Lines</item>
+        <item>Beach Islands</item>
+        <item>Morning Beach</item>
+        <item>Calm Beach</item>
+        
+    </string-array>
+    
+    <string-array
+        name="set_array_values">
+        <item>sunset_house</item>
+        <item>minions</item>
+        <item>inf_rail</item>
+        <item>abs_dg</item>
+        <item>sd_bch</item>
+        <item>abs_lines</item>
+        <item>bch_isl</item>
+        <item>morning_bch</item>
+        <item>calm_beach</item>
+    </string-array>
+    
+    <string-array
+        name="default_array_values">
+        <item>false</item>
+        <item>true</item>
+        <item>false</item>
+        <item>false</item>
+        <item>false</item>
+        <item>false</item>
+        <item>false</item>
+        <item>false</item>
+        <item>false</item>
+    </string-array>
+    
+    
+<!-- notepad save locations -->
+    <string-array name="loc_names">
+        <item>Default</item>
+        <item>root directory in SD Card</item>
+        <item>Inside application folder</item>
+    </string-array>
+    
+    <string-array name="loc_values">
+        <item>default</item>
+        <item>root</item>
+        <item>base</item>
+    </string-array>
+    
+    <string-array name="loc_defaults">
+        <item>true</item>
+        <item>false</item>
+        <item>false</item>
+    </string-array>
+
+
+<!-- location services -->    
+    
+    <string-array name="location_methods">
+        <item>Use GPS Only</item>
+        <item>Use External Devices Only</item>
+        <item>Use Both GPS and External Devices</item>
+    </string-array>
+    
+    <string-array name="location_values">
+        <item>gpsonly</item>
+        <item>btonly</item>
+        <item>both</item>
+    </string-array>
+    
+    <string-array name="location_defaults">
+        <item>false</item>
+        <item>true</item>
+        <item>false</item>
+    </string-array>
+    
+    
+    
+    
+    
+    
+</resources>

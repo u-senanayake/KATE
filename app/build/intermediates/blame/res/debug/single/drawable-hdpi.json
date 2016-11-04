@@ -1,0 +1,330 @@
+[
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\loginkeypad0.png",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\src\\main\\res\\drawable-hdpi\\loginkeypad0.png"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_text_focus_dark.9.png",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-hdpi\\common_signin_btn_text_focus_dark.9.png"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_icon_normal_light.9.png",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-hdpi\\common_signin_btn_icon_normal_light.9.png"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_icon_disabled_dark.9.png",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-hdpi\\common_signin_btn_icon_disabled_dark.9.png"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\katesplashtmp.png",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\src\\main\\res\\drawable-hdpi\\katesplashtmp.png"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\loginkeypad6.png",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\src\\main\\res\\drawable-hdpi\\loginkeypad6.png"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\backtohomebtn.png",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\src\\main\\res\\drawable-hdpi\\backtohomebtn.png"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\reg_bg_withalpha.png",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\src\\main\\res\\drawable-hdpi\\reg_bg_withalpha.png"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_plusone_standard_off_client.png",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-hdpi\\ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_text_disabled_light.9.png",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-hdpi\\common_signin_btn_text_disabled_light.9.png"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_icon_focus_light.9.png",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-hdpi\\common_signin_btn_icon_focus_light.9.png"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\preferences_ico_feedback.png",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\src\\main\\res\\drawable-hdpi\\preferences_ico_feedback.png"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\preferences_ico_notes.png",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\src\\main\\res\\drawable-hdpi\\preferences_ico_notes.png"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_text_disabled_focus_dark.9.png",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-hdpi\\common_signin_btn_text_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\preferences_ico_loc_type.png",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\src\\main\\res\\drawable-hdpi\\preferences_ico_loc_type.png"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_plusone_small_off_client.png",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-hdpi\\ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\home_noframe.png",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\src\\main\\res\\drawable-hdpi\\home_noframe.png"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\loginbg.png",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\src\\main\\res\\drawable-hdpi\\loginbg.png"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\compasshome.png",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\src\\main\\res\\drawable-hdpi\\compasshome.png"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\preferences_ico_aboutus.png",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\src\\main\\res\\drawable-hdpi\\preferences_ico_aboutus.png"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_icon_focus_dark.9.png",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-hdpi\\common_signin_btn_icon_focus_dark.9.png"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\camerahome22.png",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\src\\main\\res\\drawable-hdpi\\camerahome22.png"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\compasspointer.png",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\src\\main\\res\\drawable-hdpi\\compasspointer.png"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_icon_pressed_light.9.png",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-hdpi\\common_signin_btn_icon_pressed_light.9.png"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\powered_by_google_light.png",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-hdpi\\powered_by_google_light.png"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\micbtn_talkwithme.png",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\src\\main\\res\\drawable-hdpi\\micbtn_talkwithme.png"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_icon_disabled_focus_dark.9.png",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-hdpi\\common_signin_btn_icon_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\loginkeypad8.png",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\src\\main\\res\\drawable-hdpi\\loginkeypad8.png"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_text_disabled_dark.9.png",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-hdpi\\common_signin_btn_text_disabled_dark.9.png"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\loginkeypad2.png",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\src\\main\\res\\drawable-hdpi\\loginkeypad2.png"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\loginkeypad5.png",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\src\\main\\res\\drawable-hdpi\\loginkeypad5.png"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\preferences_ico_lokr.png",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\src\\main\\res\\drawable-hdpi\\preferences_ico_lokr.png"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\preferences_ico_lok_enable.png",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\src\\main\\res\\drawable-hdpi\\preferences_ico_lok_enable.png"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\preferences_loc_count.png",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\src\\main\\res\\drawable-hdpi\\preferences_loc_count.png"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_plusone_medium_off_client.png",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-hdpi\\ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_login_signin.png",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\src\\main\\res\\drawable-hdpi\\btn_login_signin.png"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\compassnew.png",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\src\\main\\res\\drawable-hdpi\\compassnew.png"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\settingshome.png",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\src\\main\\res\\drawable-hdpi\\settingshome.png"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\preferences_ico_gen_dispname.png",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\src\\main\\res\\drawable-hdpi\\preferences_ico_gen_dispname.png"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\notification_large.png",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\src\\main\\res\\drawable-hdpi\\notification_large.png"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\reg_logo.png",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\src\\main\\res\\drawable-hdpi\\reg_logo.png"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\notification_small.png",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\src\\main\\res\\drawable-hdpi\\notification_small.png"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\loginkeypad9.png",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\src\\main\\res\\drawable-hdpi\\loginkeypad9.png"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\saveicon.png",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\src\\main\\res\\drawable-hdpi\\saveicon.png"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\preferences_ico_loc_enable.png",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\src\\main\\res\\drawable-hdpi\\preferences_ico_loc_enable.png"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pointer3.png",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\src\\main\\res\\drawable-hdpi\\pointer3.png"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\compassbackground.png",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\src\\main\\res\\drawable-hdpi\\compassbackground.png"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\reg_signup.png",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\src\\main\\res\\drawable-hdpi\\reg_signup.png"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\preferences_ico_gen_enble_login.png",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\src\\main\\res\\drawable-hdpi\\preferences_ico_gen_enble_login.png"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_text_pressed_light.9.png",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-hdpi\\common_signin_btn_text_pressed_light.9.png"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_icon_disabled_focus_light.9.png",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-hdpi\\common_signin_btn_icon_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\voiceicon.png",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\src\\main\\res\\drawable-hdpi\\voiceicon.png"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\backhomebtn_dark.png",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\src\\main\\res\\drawable-hdpi\\backhomebtn_dark.png"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pointer.png",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\src\\main\\res\\drawable-hdpi\\pointer.png"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_plusone_tall_off_client.png",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-hdpi\\ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_text_disabled_focus_light.9.png",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-hdpi\\common_signin_btn_text_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\loginkeypad3.png",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\src\\main\\res\\drawable-hdpi\\loginkeypad3.png"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\powered_by_google_dark.png",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-hdpi\\powered_by_google_dark.png"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\reg_frame.png",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\src\\main\\res\\drawable-hdpi\\reg_frame.png"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\preferences_ico_gen_changepin.png",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\src\\main\\res\\drawable-hdpi\\preferences_ico_gen_changepin.png"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\notesicon.png",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\src\\main\\res\\drawable-hdpi\\notesicon.png"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zzz.png",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\src\\main\\res\\drawable-hdpi\\zzz.png"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_icon_pressed_dark.9.png",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-hdpi\\common_signin_btn_icon_pressed_dark.9.png"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\savenote.png",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\src\\main\\res\\drawable-hdpi\\savenote.png"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_icon_normal_dark.9.png",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-hdpi\\common_signin_btn_icon_normal_dark.9.png"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\reg_bg.png",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\src\\main\\res\\drawable-hdpi\\reg_bg.png"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\loginkeypad4.png",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\src\\main\\res\\drawable-hdpi\\loginkeypad4.png"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\loginkeypad7.png",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\src\\main\\res\\drawable-hdpi\\loginkeypad7.png"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_text_normal_dark.9.png",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-hdpi\\common_signin_btn_text_normal_dark.9.png"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_name.png",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\src\\main\\res\\drawable-hdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\preferences_ico_lok_select.png",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\src\\main\\res\\drawable-hdpi\\preferences_ico_lok_select.png"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_icon_disabled_light.9.png",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-hdpi\\common_signin_btn_icon_disabled_light.9.png"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_text_focus_light.9.png",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-hdpi\\common_signin_btn_text_focus_light.9.png"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\lockerhome.png",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\src\\main\\res\\drawable-hdpi\\lockerhome.png"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_text_pressed_dark.9.png",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-hdpi\\common_signin_btn_text_pressed_dark.9.png"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\camerahome.png",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\src\\main\\res\\drawable-hdpi\\camerahome.png"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\loginkeypad1.png",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\src\\main\\res\\drawable-hdpi\\loginkeypad1.png"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_ic_googleplayservices.png",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-hdpi\\common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_full_open_on_phone.png",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-hdpi\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\preferences_ico_loc_count.png",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\src\\main\\res\\drawable-hdpi\\preferences_ico_loc_count.png"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_text_normal_light.9.png",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-hdpi\\common_signin_btn_text_normal_light.9.png"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]

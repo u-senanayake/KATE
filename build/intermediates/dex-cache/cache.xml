@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_fcfa85b61e997aba0627a125054be33bb4636b99\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_90f3028179291cb4f6aa1068a9258be74dc6483d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="40d19422a2397a4f7cd916dd9b97fec3c34a162c">
+        <dex dex="E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f1ca46e08dbb1d87c293ecac4cbc02c56b5df986\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\libs\itextpdf-5.5.10.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6b7f922b3aeb46d5b23a108430042f371616e768">
+        <dex dex="E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\build\intermediates\transforms\dex\debug\folders\1000\2\itextpdf-5.5.10_c3aaf62f5b9799bd552e74de2b7186c034e18124\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_765472f4cee467d8d66a299ab950f70dc6e4ed79\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_a9f973d17cf03f42ab113a19ad0cd7b3bf405e14\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_3994e1238391bbbd44f2c2a55ccf76299b519b24\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Udayanga\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_f3b478e5f9ba9078d80b9cbda450e495512964a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\build\intermediates\exploded-aar\com.rmtheis\tess-two\5.4.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="921b1c4306b10e7de53574523eb7f7144bd0707f">
+        <dex dex="E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.rmtheis-tess-two-5.4.1_48e69c740c21380c52cde540f638d6912d544009\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-6.5.87_f35bca6b6fa0e386dc021c1dae2186defc3978a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0a7ac85255cd879e2d2fa6a480e6383a15f10545">
+        <dex dex="E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_6f1b70e7e5c3656140d64e3d2b3f84915c03aff0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_5d91ddf891ad797c0a4284b9224cd8df9a67fecc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_c4a75db35ed9793f70deee2f7209ad81f1b599a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_eba02797826b86fd10036590cee7f5853a1abec0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\libs\shimmer.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ebb284e30090c767e419d866e5c2cbe87e9cbaef">
+        <dex dex="E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\build\intermediates\transforms\dex\debug\folders\1000\2\shimmer_db24c885e1a1a9c3ab186bc3ef165c6170d5b930\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_305cc53c9e9de55d9aa7f70739df6bb4663d76af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_beb177e905ebc891257f740e4c9aaf4ad5ee4e0d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_4399959d7a9534ae2a6eafd607987afed147ab6d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_cb4cf18b4a6a76c28b259ab9c52376432d853383\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_69850970d8ae00df4b8846860a74adf88d284b1d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="E:\MyWorks\RUSL\Other Project\project1\K.A.T.E1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_786ff1ab89deab4f9cc6aff6ec00efabe3d9f512\classes.dex" />
+    </item>
+
+</items>

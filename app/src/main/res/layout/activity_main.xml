@@ -1,0 +1,84 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="#21618c"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="team.innovators.k.a.t.e.MainActivity" >
+
+    <Button
+        android:id="@+id/CompBtn"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="26dp"
+        android:background="@drawable/compasshome"
+        android:src="@drawable/compasshome" />
+
+    <TextView
+        android:id="@+id/textHomeGreeting"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="93dp"
+        android:textColor="#000000"
+        android:text="@string/homescreen_greetings"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <Button
+        android:id="@+id/NotesBtnHome"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_alignBaseline="@+id/CompBtn"
+        android:layout_alignBottom="@+id/CompBtn"
+        android:layout_alignParentRight="true"
+        android:background="@drawable/notesicon"
+        android:src="@drawable/notesicon" />
+
+    <Button
+        android:id="@+id/CameraHomeBtn"
+        android:layout_width="60dp"
+        android:layout_height="50dp"
+        android:layout_above="@+id/CompBtn"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="33dp"
+        android:text=""
+        android:background="@drawable/camerahome"
+        android:src="@drawable/camerahome" />
+
+    <Button
+        android:id="@+id/LockerBtnHome"
+        android:layout_width="50dp"
+        android:layout_height="60dp"
+        android:layout_alignBaseline="@+id/CameraHomeBtn"
+        android:layout_alignBottom="@+id/CameraHomeBtn"
+        android:layout_alignLeft="@+id/NotesBtnHome"
+        android:background="@drawable/lockerhome"
+        android:src="@drawable/voiceicon" />
+
+    <Button
+        android:id="@+id/ExtraSettingsBtn"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignBaseline="@+id/CameraHomeBtn"
+        android:layout_alignBottom="@+id/CameraHomeBtn"
+        android:layout_alignLeft="@+id/MicBtn"
+        android:visibility="invisible"
+        android:background="@drawable/settingshome" />
+
+    <Button
+        android:id="@+id/MicBtn"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_alignBaseline="@+id/CompBtn"
+        android:layout_alignBottom="@+id/CompBtn"
+        android:layout_toLeftOf="@+id/textHomeGreeting"
+        android:background="@drawable/voiceicon"
+        android:src="@drawable/voiceicon" />
+    
+</RelativeLayout>

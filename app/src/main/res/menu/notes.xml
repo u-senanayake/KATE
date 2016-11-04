@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="team.innovators.k.a.t.e.NotesActivity" >
+
+    <item
+        android:id="@+id/action_notepad_settings"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_notepad_settings"/>
+    
+    <item
+        android:id="@+id/action_notepad_save"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:icon="@drawable/saveicon"
+        android:title="@string/action_notepad_save"/>
+    
+    <item
+        android:id="@+id/action_notepad_share"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_notepad_share"/>
+
+</menu>

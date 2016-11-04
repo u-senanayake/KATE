@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\locker.xml",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\src\\main\\res\\menu\\locker.xml"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\camera.xml",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\src\\main\\res\\menu\\camera.xml"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\reg.xml",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\src\\main\\res\\menu\\reg.xml"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\splash.xml",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\src\\main\\res\\menu\\splash.xml"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\notes.xml",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\src\\main\\res\\menu\\notes.xml"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\compass.xml",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\src\\main\\res\\menu\\compass.xml"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\talk_with_me.xml",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\src\\main\\res\\menu\\talk_with_me.xml"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\login.xml",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\src\\main\\res\\menu\\login.xml"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\lock_screen.xml",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\src\\main\\res\\menu\\lock_screen.xml"
+    },
+    {
+        "merged": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main_settings.xml",
+        "source": "E:\\MyWorks\\RUSL\\Other Project\\project1\\K.A.T.E1\\app\\src\\main\\res\\menu\\main_settings.xml"
+    }
+]
